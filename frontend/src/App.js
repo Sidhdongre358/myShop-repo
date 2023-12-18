@@ -4,6 +4,7 @@ function App() {
   return (
     <div >
       <h1>hello welcome to pro-shop</h1>
+      <h2>hello</h2>
     </div>
   );
 }
